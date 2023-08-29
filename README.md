@@ -27,6 +27,8 @@ These questions may evolve as the analysis progresses.
 
 The analysis utilized the `Web Scraping` method on the popular e-commerce website **Tokopedia** due to its widespread usage and high web traffic.
 
+The clean scraping data : [click here](https://github.com/riki-profile/webscraping-data-analysis/blob/main/data_scraping.csv)
+
 ### Extracted Data
 
 The following columns were extracted from the dataset:
